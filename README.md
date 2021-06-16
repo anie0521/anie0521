@@ -1,10 +1,6 @@
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanie0521&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
-  </div>
+# Welcome
 
-### Hi there 👋
+### Hi there, I'm Jisu! 👋
 
 <!--
 **anie0521/anie0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Software Developer
+
+* Skills : 
+
+
+#### Data Analyst
+
+* Skills :  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimjs0521/)](https://www.linkedin.com/in/kimjs0521/)
