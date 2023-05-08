@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JisuKim&fontAlignY=40&fontSize=90&animation=twinkling)
 # Hi there, I'm Jisu! 👋
 - 👩🏻‍🎓 I am an [Informatics](https://ischool.uw.edu) student at University of Washington (class of 2021).
-- 👩🏻‍💻 I am a **software developer** and a **data analyst**.
+- 👩🏻‍💻 I am a **full-stack software developer** and a **data analyst**.
 - 💬 Ask me about anything [here](https://github.com/anie0521/anie0521/issues).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimjs0521/)](https://www.linkedin.com/in/kimjs0521/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anie0521@gmail.com)](mailto:anie0521@gmail.com)
